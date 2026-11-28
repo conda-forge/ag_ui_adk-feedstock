@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.13.0"
+  version: "0.14.0"
 
 package:
   name: ag_ui_adk
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/ag_ui_adk/ag_ui_adk-${{ version }}.tar.gz
-  sha256: d50624a818aaf4e8a92c629f20b2f275c5f64911e437fe7e81db7c059f1cb525
+  sha256: bc2bcbab28b781f2604c8a450a6a27f77a561d2695c62aef649bb01fa0812155
 
 build:
   number: 0
